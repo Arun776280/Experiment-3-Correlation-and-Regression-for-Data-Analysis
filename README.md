@@ -21,8 +21,10 @@
 # Algorithm 
 
 <img width="1143" height="477" alt="image" src="https://github.com/user-attachments/assets/d3d41b8d-bee6-4b5f-a6fe-ef6997126cf2" />
+
 # Name Arun R
 # reg no 25016190
+
 # Program
 ```
 # Exp: No-3
@@ -89,6 +91,7 @@ plt.legend(['Regression Line', 'Data points'])
 plt.grid(True)
 plt.show()
 ```
+# Colab link : https://colab.research.google.com/drive/1xmh6HtKddOhWXFohulWD8DOBKKR4_Bav?usp=sharing
 
 # Output
 <img width="751" height="647" alt="image" src="https://github.com/user-attachments/assets/3393d023-97b3-4624-81ab-a234b7d8de6a" />
